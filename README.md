@@ -1,12 +1,11 @@
 # MedAI: Personalized Early Disease Detection
 
+Building AI course project - MedAI
 
 ## Summary
 
 An AI-based platform that analyzes an individual’s health data (from wearables, medical history, etc.) 
 to provide early detection of chronic or lifestyle diseases and personalized health recommendations.
-
-This project is a Building AI course project.
 
 ## Background
 
